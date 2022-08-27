@@ -3,7 +3,8 @@
 Proyecto realizado con PHP Nativo 7.4 con BD Mysql
 
 Pasos para ejecutar el proyecto
-
+- Descomprimir el archivo Codigo Fuente.zip con todo el contenido del proyecto
+- Descomprimir el archivo Base Datos  , cuenta con el backup de la base de datos y la sentencias solicitadas en la prueba
 - Ejecutar el proyecto sobre un servidor web
 - Ejecutar el SQL para la creación de la base de datos con cada una de las tablas y las funciones
 
@@ -15,4 +16,5 @@ Contenido del proyecto
 - Inventario: Reporte para visualizar el resumen del inventario por cada producto
 
 Metodología aplicada
+
 El desarrollo del proyecto se desarrollo bajo el estandár MVC , Modelo-Vista-Controlador , separando cada una de las capas , de presentación , logica y persistencia de datos.
